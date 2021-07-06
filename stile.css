@@ -1,0 +1,89 @@
+* {
+    border: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+    background: #E5E5E5;
+    font-weight: 400;
+}
+
+a {
+    text-decoration: none;
+}
+
+.logo {
+    margin: 195px auto 122.65px auto;
+    display: block;
+}
+
+input {
+    display: block;
+    width: 321px;
+    height: 46px;
+    margin: 0 auto 21px auto;
+    background: #F7F7F7;
+    box-shadow: -4px 4px 18px rgba(0, 0, 0, 0.09);
+    border-radius: 10px;
+}
+
+input::placeholder {
+    font-size: 13px;
+    line-height: 15px;
+    padding-left: 19px;
+}
+
+.password {
+    margin: 0 auto;
+}
+
+.forgot {
+    font-size: 13px;
+    line-height: 15px;
+    display: block;
+    text-align: right;
+    padding-right: 59px;
+    margin-top: 35px;
+    text-decoration: none;
+    color: #000000;
+}
+
+button {
+    background: #323232;
+    box-shadow: -4px 4px 18px rgba(0, 0, 0, 0.09);
+    border-radius: 10px;
+    display: block;
+    width: 133px;
+    height: 46px;
+    margin: 38px auto 21px auto;
+    color: #FFFFFF;
+    font-size: 15px;
+}
+
+.criated {
+    text-align: center;
+    font-size: 15px;
+    line-height: 18px;
+    color: #969696;
+    display: block;
+}
+
+strong {
+    color: #323232;
+}
+
+p {
+    font-weight: 900;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    color: #000000;
+    margin: 62px auto 18px auto;
+}
+
+div {
+    text-align: center;
+    margin-bottom: 80px;
+}
+
+.font {
+    margin: 0 10px;
+}
